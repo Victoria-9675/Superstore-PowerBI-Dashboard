@@ -1,5 +1,15 @@
 # Superstore-PowerBI-Dashboard
-Power BI dashboard analyzing sales, profit, customers, and regional performance using the Global Superstore dataset.
+Power BI portfolio project analyzing retail sales performance using Global Superstore dataset.
+
+### 📊 Power BI Report (.PBIX)
+
+The Power BI (.pbix) file contains the full interactive dashboard including:
+- Data modeling
+- DAX calculations
+- Interactive visuals
+- Drill-through and slicers
+
+
 
 ### Executive Dashboard
 ![Executive Dashboard](Screenshots/Executive-Dashboard.png)
