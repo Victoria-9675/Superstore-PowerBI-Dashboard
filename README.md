@@ -33,6 +33,7 @@ Download: [Global Superstore Dashboard](Dataset/Global-Superstore-Dataset.pbix)
 Some high-sales products had low profit margins.
 Office Supplies generated the highest sales and profit.
 The Consumer segment contributed the most revenue.
-The EMEA region was the best-performing region.
+The Central region was the best-performing region.
+Segment with the highest sales had the lowest profit margin
 
 
