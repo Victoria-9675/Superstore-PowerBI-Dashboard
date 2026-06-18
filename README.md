@@ -7,9 +7,9 @@ The Power BI (.pbix) file contains the full interactive dashboard including:
 - Data modeling
 - DAX calculations
 - Interactive visuals
-- Drill-through and slicers
+- Drill-through and filters
 
-
+Download: [Global Superstore Dashboard](Dataset/Global-Superstore-Dataset.pbix)
 
 ### Executive Dashboard
 ![Executive Dashboard](Screenshots/Executive-Dashboard.png)
