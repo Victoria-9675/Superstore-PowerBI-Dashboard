@@ -15,7 +15,7 @@ Download: [Global Superstore Dashboard](Dataset/Global-Superstore-Dataset.pbix)
 ![Executive Dashboard](Screenshots/Executive-Dashboard.png)
 
 ### Product Analysis
-![Product Analysis](Screenshots/Product-Analysis.png)
+![Product Analysis Total Profit](Screenshots/Product-Analysis.png)
 
 ### Total Sales
 !![Product Analysis Total Sales](Screenshots/Product-Analysis-Total-Sales.png)
