@@ -5,7 +5,7 @@ Power BI dashboard analyzing sales, profit, customers, and regional performance 
 ![Executive Dashboard](Screenshots/Executive Dashboard.png)
 
 ### Product Analysis
-![Product Analysis]
+![Product Analysis](Screenshots/ProductAnalysis.png)
 
 ### Customer Analysis
 ![Customer Analysis](Screenshots/customer-analysis.png)
