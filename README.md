@@ -11,7 +11,7 @@ Power BI dashboard analyzing sales, profit, customers, and regional performance 
 ![Customer Analysis](Screenshots/Customer Analysis.png)
 
 ### Regional Analysis
-![Regional Analysis](Screenshots/Regional Analysis.png)
+![Regional Analysis](Screenshots/RegionalAnalysis.png)
 
 ### Time Analysis
-![Time Analysis](Screenshots/time-analysis.png)
+![Time Analysis](Screenshots/TimeAnalysis.png)
