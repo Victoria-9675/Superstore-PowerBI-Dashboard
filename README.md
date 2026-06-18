@@ -28,3 +28,11 @@ Download: [Global Superstore Dashboard](Dataset/Global-Superstore-Dataset.pbix)
 
 ### Time Analysis
 ![Time Analysis](Screenshots/Time-Analysis.png)
+
+### Key insights
+Some high-sales products had low profit margins.
+Office Supplies generated the highest sales and profit.
+The Consumer segment contributed the most revenue.
+The EMEA region was the best-performing region.
+
+
